@@ -1,1 +1,1 @@
-# manipulacaoDeAqruivosPY
+# manipulacaoDeArquivosPY
